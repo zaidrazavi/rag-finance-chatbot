@@ -1,0 +1,27 @@
+ACME Corporation — Accounts Receivable Summary
+Report Date: January 2025
+
+OUTSTANDING INVOICES:
+Invoice #INV-2024-001 | Vendor: TechSupply Ltd | Amount: $12,500 | Due: 2025-01-15 | Status: Overdue
+Invoice #INV-2024-002 | Vendor: CloudServices Inc | Amount: $8,200 | Due: 2025-02-01 | Status: Pending
+Invoice #INV-2024-003 | Vendor: OfficeWorld | Amount: $3,400 | Due: 2025-01-20 | Status: Overdue
+Invoice #INV-2024-004 | Vendor: LogisticsPlus | Amount: $21,000 | Due: 2025-02-15 | Status: Pending
+Invoice #INV-2024-005 | Vendor: DataSystems Co | Amount: $5,750 | Due: 2025-01-10 | Status: Paid
+
+PAYMENT HISTORY (Q4 2024):
+- October 2024: Total collected $48,200 from 6 vendors
+- November 2024: Total collected $62,500 from 8 vendors
+- December 2024: Total collected $35,800 from 5 vendors
+
+TOTAL OUTSTANDING: $45,100
+TOTAL OVERDUE: $15,900
+AVERAGE DAYS OVERDUE: 12 days
+
+TOP OVERDUE VENDORS:
+1. TechSupply Ltd — $12,500 (18 days overdue)
+2. OfficeWorld — $3,400 (8 days overdue)
+
+CASH FLOW NOTES:
+Q4 2024 revenue target was $150,000. Actual collected: $146,500 (97.7% of target).
+Three invoices flagged for follow-up: INV-2024-001, INV-2024-003.
+Recommended action: Send automated payment reminders to overdue vendors.
